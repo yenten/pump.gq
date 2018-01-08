@@ -1,0 +1,21 @@
+#!/usr/bin/env python
+USER = "/Users/michael"
+THEME = USER + "/opt/pump.gq/themes/pump/"
+PLUGIN_PATHS = [USER + "/opt/pelican/plugins"]
+PLUGINS = []
+STATIC_PATHS = ["assets"]
+AUTHOR = "CryptoFoundry Team"
+SITENAME = "Crypto Pump 2018"
+SITEURL = ""
+PATH = "content"
+TIMEZONE = "Europe/Moscow"
+DEFAULT_LANG = "en"
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+LINKS = []
+SOCIAL = []
+DEFAULT_PAGINATION = False
+RELATIVE_URLS = True

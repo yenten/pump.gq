@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-USER = "/Users/michael"
+USER = ""
 THEME = USER + "/opt/pump.gq/themes/pump/"
 PLUGIN_PATHS = [USER + "/opt/pelican/plugins"]
 PLUGINS = []

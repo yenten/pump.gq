@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 PREFIX = ""
+THEME = PREFIX + "/opt/pump.gq/themes/pump/"
 PLUGIN_PATHS = [PREFIX + "/opt/pelican-plugins"]
 PLUGINS = []
 STATIC_PATHS = ["assets", "code"]

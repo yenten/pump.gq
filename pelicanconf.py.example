@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 PREFIX = ""
-THEME = PREFIX + "/opt/pump.gq/themes/pump/"
+PLUGIN_PATHS = [PREFIX + "/opt/pelican-plugins"]
 PLUGINS = []
+STATIC_PATHS = ["assets", "code"]
 PAGES_PATH = "pages"
 ARTICLES_PATH = "posts"
-STATIC_PATHS = ["assets"]
 AUTHOR = "CryptoFoundry Team"
-SITENAME = "Crypto Pump 2018"
+SITENAME = ""
 RELATIVE_URLS = True
 LINKS = []
 SOCIAL = []
